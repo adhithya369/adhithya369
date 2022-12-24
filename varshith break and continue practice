@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main()
+{
+    int j=2;
+    int n=20;
+    for(i=j; i<=n; i+2)
+    {
+        printf("\n%d",i);
+        if(i==10)
+    }
+    break;
+}
